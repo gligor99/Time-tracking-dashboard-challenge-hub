@@ -1,0 +1,20 @@
+.container {
+    border: 2px solid red;
+    width: fit-content;
+}
+
+.card_top {
+    background-color: #FF8C66;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.card_bottom {
+    background-color: #1D2049;
+    color: #fff;
+}
+
+.card_bottom_header {
+    display: flex;
+    flex-direction: row;
+}

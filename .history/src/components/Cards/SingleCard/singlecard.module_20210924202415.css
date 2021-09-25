@@ -1,0 +1,8 @@
+.container {
+    border: 2px solid red;
+    width: fit-content;
+}
+
+.card_top {
+    background-color: #FF8C66;
+}

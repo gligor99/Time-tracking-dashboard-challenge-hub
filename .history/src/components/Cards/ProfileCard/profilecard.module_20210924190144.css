@@ -1,0 +1,13 @@
+.container{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.profile_content{
+    background-color: #5847EB;
+    border-radius: 15px;
+}
+
+.profile_option{
+    background-color: #1C1F4A;
+}
